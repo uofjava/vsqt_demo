@@ -1,0 +1,9 @@
+{
+    "qtConfigure.qtKitDir": "e:/Qt/Qt5.12.11/5.12.11/mingw73_32",
+    "files.associations": {
+        "*.json": "jsonc",
+        "*.py": "python",
+        "xlocmes": "cpp",
+        "cmath": "cpp"
+    }
+}
